@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### api documentation for  [pikaday (v1.5.1)](http://dbushell.github.io/Pikaday/)  [![npm package](https://img.shields.io/npm/v/npmdoc-pikaday.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pikaday) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pikaday.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pikaday)",
+    "description": "#### basic api documentation for  [pikaday (v1.5.1)](http://dbushell.github.io/Pikaday/)  [![npm package](https://img.shields.io/npm/v/npmdoc-pikaday.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pikaday) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pikaday.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pikaday)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "pikaday": "*",
@@ -35,5 +35,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.26"
 }

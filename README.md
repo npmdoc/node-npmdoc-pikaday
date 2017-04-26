@@ -1,6 +1,6 @@
 # npmdoc-pikaday
 
-#### api documentation for  [pikaday (v1.5.1)](http://dbushell.github.io/Pikaday/)  [![npm package](https://img.shields.io/npm/v/npmdoc-pikaday.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pikaday) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pikaday.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pikaday)
+#### basic api documentation for  [pikaday (v1.5.1)](http://dbushell.github.io/Pikaday/)  [![npm package](https://img.shields.io/npm/v/npmdoc-pikaday.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pikaday) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pikaday.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pikaday)
 
 #### A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
@@ -81,7 +81,8 @@
             "opera/latest"
         ]
     },
-    "version": "1.5.1"
+    "version": "1.5.1",
+    "bin": {}
 }
 ```
 
